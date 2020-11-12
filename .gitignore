@@ -42,6 +42,8 @@ captures/
 .idea/libraries/
 .idea/scopes/
 .idea/inspectionProfiles/
+.idea/$CACHE_FILE$
+.idea/caches/build_file_checksums.ser
 
 # Keystore files
 *.jks

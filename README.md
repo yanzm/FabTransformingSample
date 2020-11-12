@@ -2,12 +2,6 @@
 
 Sample of Floating Action Button transforming using Transition API.
 
-https://material.google.com/components/buttons-floating-action-button.html#buttons-floating-action-button-transitions
+https://material.io/components/buttons-floating-action-button
 
-<img src="screenshots/device-2016-11-14-213115.png" width="270">
-<img src="screenshots/device-2016-11-14-213130.png" width="270">
-
-
-## Sample movie
-https://www.youtube.com/watch?v=nNOm_2b4MYE
-
+<img src="screenshots/device-2020-11-12-164437.gif">
